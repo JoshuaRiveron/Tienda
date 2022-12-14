@@ -1,0 +1,55 @@
+*{
+    padding: 10px;
+    margin: 0px;
+}
+
+body{
+    background-image: url("../img/fondo.png");
+}
+
+.contenido1{
+    background-color: rgb(191, 163, 213);
+    text-align: center;
+    width: 500px;
+    margin-left: 500px;
+}
+
+.titulo1{
+    background-color: rgb(56, 8, 92);
+    text-align: center;
+    color: aliceblue;
+    font-size: 40px;
+    border-radius: 50px;
+}
+
+.titulo2{
+    background-color: rgb(56, 8, 92);
+    text-align: center;
+    color: aliceblue;
+    font-size: 20px;
+    border-radius: 100px;
+}
+
+.botones{
+    text-align: center;
+}
+
+.boton{
+    margin-left: 50px;
+}
+
+.boton:hover{
+    background-color: #d2b2ef;
+    position: relative;
+    display: inline-block;
+    padding: 10px 10px;
+    color: #3b1f6c;
+    letter-spacing: 4px;
+    font-size: 20px;
+    transition: 0.2s;
+}
+
+.lista{
+    text-align: left;
+    margin-left: 150px;
+}
