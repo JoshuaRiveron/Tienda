@@ -1,5 +1,6 @@
 const productos = [
     {nombre: 'Coca 600 ml', valor: 17},
+    {nombre: 'Coca 1 L', valor: 24},
     {nombre: 'Coca 3 L', valor: 17},
     {nombre: 'Coca 2.75 L', valor: 39},
     {nombre: 'Coca 1.75 ml', valor: 30},
