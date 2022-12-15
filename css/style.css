@@ -10,11 +10,12 @@ body{
 .contenido1{
     background-color: rgb(191, 163, 213);
     text-align: center;
-    width: 300px;
+    width: 250px;
     margin-left: 10px;
 }
 
 .titulo1{
+    width: 250px;
     background-color: rgb(56, 8, 92);
     text-align: center;
     color: aliceblue;
@@ -23,6 +24,7 @@ body{
 }
 
 .titulo2{
+    width: 250px;
     background-color: rgb(56, 8, 92);
     text-align: center;
     color: aliceblue;
