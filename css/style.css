@@ -54,3 +54,10 @@ body{
     margin-left: 150px;
 }
 
+.general{
+    width: 1000px;
+    max-width: 1000px;
+    margin: 0;
+    overflow: hidden;
+    margin-left: 200px;
+}
