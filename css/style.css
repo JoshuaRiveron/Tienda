@@ -36,10 +36,6 @@ body{
     text-align: center;
 }
 
-.boton{
-    margin-left: 50px;
-}
-
 .boton:hover{
     background-color: #d9bbf5;
     position: relative;
