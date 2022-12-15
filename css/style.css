@@ -32,6 +32,15 @@ body{
     border-radius: 100px;
 }
 
+.botones{
+    width: 250px;
+    text-align: center;
+}
+
+.boton{
+    text-align: center;
+}
+
 .boton:hover{
     background-color: #d9bbf5;
     position: relative;
@@ -45,7 +54,9 @@ body{
 
 .lista{
     text-align: left;
+    width: 250px;
     margin-left: 10px;
+    font-size: 15px;
 }
 
 .general{
