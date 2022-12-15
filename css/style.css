@@ -10,7 +10,7 @@ body{
 .contenido1{
     background-color: rgb(191, 163, 213);
     text-align: center;
-    width: 100px;
+    width: 200px;
     margin-left: 10px;
 }
 
@@ -54,3 +54,6 @@ body{
     margin-left: 10px;
 }
 
+.general{
+    width: 500px;
+}
