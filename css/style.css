@@ -11,7 +11,7 @@ body{
     background-color: rgb(191, 163, 213);
     text-align: center;
     width: 500px;
-    margin-left: 500px;
+    margin-left: 10px;
 }
 
 .titulo1{
@@ -51,7 +51,7 @@ body{
 
 .lista{
     text-align: left;
-    margin-left: 150px;
+    margin-left: 10px;
 }
 
 .general{
