@@ -1,9 +1,12 @@
 const productos = [
     {nombre: 'Barcel', valor: 15},
+    {nombre: 'Bolsalza', valor: 20},
     {nombre: 'Chetos', valor: 13},
     {nombre: 'Chetos Mix', valor: 16},
+    {nombre: 'Chicharrones de cerdo', valor: 16},
     {nombre: 'Chips', valor: 15},
     {nombre: 'Churrumais', valor: 10},
+    {nombre: 'Crujitos', valor: 15},
     {nombre: 'Doritos', valor: 15},
     {nombre: 'Paquetaxo', valor: 15},
     {nombre: 'Palomitas Pop chicas', valor: 10},
@@ -13,6 +16,7 @@ const productos = [
     {nombre: 'Toreadas', valor: 15},
     {nombre: 'Tostitos', valor: 15},
     {nombre: 'Sabritas', valor: 16},
+    {nombre: 'Sabritas grandes', valor: 45},
 ]
 
 const formulario = document.querySelector('#formulario');
