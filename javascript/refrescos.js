@@ -19,6 +19,7 @@ const productos = [
     {nombre: 'Pepsi 600 ml', valor: 17},
     {nombre: 'Pepsi 1.75 L', valor: 21},
     {nombre: 'Pepsi 3 L', valor: 31},
+    {nombre: 'Power ADE 1 L', valor: 30},
 ]
 
 const formulario = document.querySelector('#formulario');
