@@ -1,4 +1,5 @@
 const productos = [
+    {nombre: 'Ameyal', valor: 16},
     {nombre: 'Coca 250 ml', valor: 10},
     {nombre: 'Coca 400 ml', valor: 13},
     {nombre: 'Coca 600 ml', valor: 17},
@@ -14,12 +15,20 @@ const productos = [
     {nombre: 'Coca ret 2.5 L', valor: 29},
     {nombre: 'Coca ret 3 L', valor: 35},
     {nombre: 'Coca lata 355 ml', valor: 17},
+    {nombre: 'Delaware', valor: 16},
+    {nombre: 'Fanta', valor: 16},
+    {nombre: 'Fresca', valor: 16},
     {nombre: 'Jarrito 600 ml', valor: 12},
     {nombre: 'Jarrito 2 L', valor: 20},
+    {nombre: 'Mundet roja', valor: 16},
     {nombre: 'Pepsi 600 ml', valor: 12},
     {nombre: 'Pepsi 1.75 L', valor: 21},
     {nombre: 'Pepsi 3 L', valor: 31},
     {nombre: 'Power ADE 1 L', valor: 30},
+    {nombre: 'Senzao', valor: 16},
+    {nombre: 'Sidral', valor: 16},
+    {nombre: 'Sprite', valor: 16},
+    {nombre: 'Yoli', valor: 16},
 ]
 
 const formulario = document.querySelector('#formulario');

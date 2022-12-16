@@ -1,4 +1,6 @@
 const productos = [
+    {nombre: 'Boing chico', valor: 10},
+    {nombre: 'Boing grande', valor: 15},
     {nombre: 'Danonino chico', valor: 6},
     {nombre: 'Danonino grande', valor: 10},
 ]
