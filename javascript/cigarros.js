@@ -1,5 +1,7 @@
 const productos = [
+    {nombre: 'Pall Mall', valor: 63},
     {nombre: 'Camel', valor: 75},
+    {nombre: 'Marlboro', valor: 75},
 ]
 
 const formulario = document.querySelector('#formulario');
