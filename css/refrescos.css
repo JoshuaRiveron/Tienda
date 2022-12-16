@@ -8,9 +8,9 @@ body{
 .contenido1{
     background-color: rgb(191, 163, 213);
     text-align: center;
-    height: 500px;
+    height: 650px;
     width: 300px;
-    margin-left: 15px;
+    margin-left: 10px;
     border-radius: 10px;
 }
 
@@ -95,9 +95,9 @@ body{
 
 .lista{
     text-align: left;
-    width: 250px;
-    margin-left: 10px;
-    font-size: 15px;
+    width: 300px;
+    margin-left: 1px;
+    font-size: 14px;
 }
 
 .general{
