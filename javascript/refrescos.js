@@ -1,5 +1,6 @@
 const productos = [
     {nombre: 'Ameyal', valor: 16},
+    {nombre: 'Bonafont 1 L', valor: 13},
     {nombre: 'Coca 250 ml', valor: 10},
     {nombre: 'Coca 400 ml', valor: 13},
     {nombre: 'Coca 600 ml', valor: 17},
@@ -18,6 +19,7 @@ const productos = [
     {nombre: 'Delaware', valor: 16},
     {nombre: 'Fanta', valor: 16},
     {nombre: 'Fresca', valor: 16},
+    {nombre: 'Fuzetea', valor: 17},
     {nombre: 'Jarrito 600 ml', valor: 12},
     {nombre: 'Jarrito 2 L', valor: 20},
     {nombre: 'Mundet roja', valor: 16},
