@@ -1,10 +1,24 @@
 const productos = [
+    {nombre: 'Coca 250 ml', valor: 10},
+    {nombre: 'Coca 400 ml', valor: 13},
     {nombre: 'Coca 600 ml', valor: 17},
     {nombre: 'Coca 1 L', valor: 24},
-    {nombre: 'Coca 3 L', valor: 17},
-    {nombre: 'Coca 2.75 L', valor: 39},
     {nombre: 'Coca 1.75 ml', valor: 30},
+    {nombre: 'Coca 2.75 L', valor: 40},
+    {nombre: 'Coca 3 L', valor: 50},
+    {nombre: 'Coca s/a 300 ml', valor: 8},
+    {nombre: 'Coca s/a 2.5', valor: 30},
+    {nombre: 'Coca Vidrio 235 ', valor: 7},
+    {nombre: 'Coca Vidrio 500', valor: 13},
+    {nombre: 'Coca Vidrio 1 1/4 L', valor: 23},
+    {nombre: 'Coca 2.5 L', valor: 29},
+    {nombre: 'Coca 3 L', valor: 35},
+    {nombre: 'Coca lata 355 ml', valor: 17},
+    {nombre: 'Jarrito 600 ml', valor: 12},
+    {nombre: 'Jarrito 2 L', valor: 20},
     {nombre: 'Pepsi 600 ml', valor: 17},
+    {nombre: 'Pepsi 1.75 L', valor: 21},
+    {nombre: 'Pepsi 3 L', valor: 31},
 ]
 
 const formulario = document.querySelector('#formulario');
