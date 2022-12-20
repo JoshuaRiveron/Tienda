@@ -1,8 +1,5 @@
 const productos = [
-    {nombre: 'Camel', valor: 75},
-    {nombre: 'Link', valor: 35},
-    {nombre: 'Marlboro', valor: 75},
-    {nombre: 'Pall Mall', valor: 63},
+    {nombre: 'Bonafont 1L', valor: 15},
 ]
 
 const formulario = document.querySelector('#formulario');
