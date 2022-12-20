@@ -5,15 +5,6 @@ body{
     background-image: url("../img/fondo.png");
 }
 
-.contenido1{
-    background-color: rgb(191, 163, 213);
-    text-align: center;
-    height: 250px;
-    width: 300px;
-    margin-left: 15px;
-    border-radius: 10px;
-}
-
 .titulo1{
     display: flex;
     align-items: center;
@@ -108,5 +99,5 @@ body{
 }
 
 .botones{
-    margin-left: 25px;
+    margin-left: 20px;
 }
